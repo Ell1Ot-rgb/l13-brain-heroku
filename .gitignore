@@ -1,0 +1,21 @@
+# Executables & Binaries
+*.o
+*.so
+*.dylib
+*.a
+*.exe
+l13_brain
+l13_brain_v2
+l13_brain_asan
+l13_brain_dbg
+
+# Build Directories
+build/
+dist/
+.tmp/
+
+# OS & IDE
+.DS_Store
+.vscode/
+.idea/
+*.log
